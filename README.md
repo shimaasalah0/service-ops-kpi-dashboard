@@ -9,7 +9,7 @@ An interactive Power BI dashboard designed to track service operation KPIs, simu
 - DAX calculated measures and time-intelligence line graphs
 - Slicers and filters for drill-down by region, ticket category, and time period
 - Python data cleaning pipeline for raw CSV exports
-- Excel summary with pivot tables and conditional formatting
+
 
 ## Dashboard Preview
 ![Dashboard](screenshots/dashboard.jpg)
