@@ -12,7 +12,7 @@ An interactive Power BI dashboard designed to track service operation KPIs, simu
 - Excel summary with pivot tables and conditional formatting
 
 ## Dashboard Preview
-*(Screenshot coming soon)*
+![Dashboard](screenshots/dashboard.png)
 
 ## How to Run the Python Script
 1. Install dependencies: `pip install pandas`
