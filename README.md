@@ -18,11 +18,3 @@ An interactive Power BI dashboard designed to track service operation KPIs, simu
 1. Install dependencies: `pip install pandas`
 2. Run: `python scripts/data_cleaning.py`
 
-## Project Structure
-\```
-service-ops-kpi-dashboard/
-├── screenshots/
-├── data/
-├── scripts/
-└── excel/
-\```
